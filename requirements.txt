@@ -3,3 +3,4 @@ PyPI
 pip
 youtube_dl
 colorlog
+asyncio
