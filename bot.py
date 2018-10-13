@@ -67,10 +67,10 @@ async def bora(ctx):
 
 @bot.command(pass_context=True)
 async def moita(ctx):
-    await bot.say("o Moita é o cara!")
+    await ctx.send("o Moita é o cara!")
 
 @bot.command(pass_context=True)
 async def bomdia(ctx):
-    await bot.say("bom dia grupo!")
+    await ctx.send_message("bom dia grupo!")
 
 bot.run(TOKEN)
