@@ -1,5 +1,5 @@
-discord.py
 discord.py[voice]
+discord.ext
 pip
 youtube_dl
 colorlog
